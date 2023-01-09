@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\bin\Debug\net6.0\BoletimFaculdade.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\bin\Debug\net6.0\BoletimFaculdade.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\bin\Debug\net6.0\BoletimFaculdade.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\bin\Debug\net6.0\BoletimFaculdade.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\bin\Debug\net6.0\BoletimFaculdade.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\refint\BoletimFaculdade.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\BoletimFaculdade.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\BoletimFaculdade\obj\Debug\net6.0\ref\BoletimFaculdade.dll

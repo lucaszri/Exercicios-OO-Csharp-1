@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\bin\Debug\net6.0\CnhPaises.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\bin\Debug\net6.0\CnhPaises.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\bin\Debug\net6.0\CnhPaises.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\bin\Debug\net6.0\CnhPaises.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\bin\Debug\net6.0\CnhPaises.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\refint\CnhPaises.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\CnhPaises.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\CnhPaises\obj\Debug\net6.0\ref\CnhPaises.dll

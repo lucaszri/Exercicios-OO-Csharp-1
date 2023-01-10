@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletimFaculdade", "BoletimFaculdade\BoletimFaculdade.csproj", "{EAB2C1C5-37DA-4C45-9539-B592ECCA3042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnhPaises", "CnhPaises\CnhPaises.csproj", "{2F7B89FB-0DDF-47BC-A4AB-B9A94D70D415}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EAB2C1C5-37DA-4C45-9539-B592ECCA3042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAB2C1C5-37DA-4C45-9539-B592ECCA3042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAB2C1C5-37DA-4C45-9539-B592ECCA3042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7B89FB-0DDF-47BC-A4AB-B9A94D70D415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7B89FB-0DDF-47BC-A4AB-B9A94D70D415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7B89FB-0DDF-47BC-A4AB-B9A94D70D415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7B89FB-0DDF-47BC-A4AB-B9A94D70D415}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

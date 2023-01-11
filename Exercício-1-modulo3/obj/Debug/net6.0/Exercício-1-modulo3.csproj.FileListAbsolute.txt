@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\bin\Debug\net6.0\Exercício-1-modulo3.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\bin\Debug\net6.0\Exercício-1-modulo3.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\bin\Debug\net6.0\Exercício-1-modulo3.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\bin\Debug\net6.0\Exercício-1-modulo3.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\bin\Debug\net6.0\Exercício-1-modulo3.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\refint\Exercício-1-modulo3.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\Exercício-1-modulo3.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercício-1-modulo3\obj\Debug\net6.0\ref\Exercício-1-modulo3.dll

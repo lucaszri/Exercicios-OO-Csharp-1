@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\bin\Debug\net6.0\Exercicio-Classe-Abstrata.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\bin\Debug\net6.0\Exercicio-Classe-Abstrata.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\bin\Debug\net6.0\Exercicio-Classe-Abstrata.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\bin\Debug\net6.0\Exercicio-Classe-Abstrata.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\bin\Debug\net6.0\Exercicio-Classe-Abstrata.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\refint\Exercicio-Classe-Abstrata.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\Exercicio-Classe-Abstrata.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Classe-Abstrata\obj\Debug\net6.0\ref\Exercicio-Classe-Abstrata.dll

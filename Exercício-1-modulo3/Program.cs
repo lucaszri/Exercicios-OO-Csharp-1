@@ -16,8 +16,8 @@
               Crie um Professor de 30 anos, e faça ele Cumprimentar, DizerIdade e Explicar sobre um determinado assunto.*/
 
             Pessoa pessoa = new Pessoa("Lucas", 27);
-            Aluno aluno = new Aluno("Luquinhas", 15);
-            Professor professor = new Professor("Lucão", 50);
+            Aluno aluno = new Aluno("Luquinhas", 21);
+            Professor professor = new Professor("Lucão", 30);
 
             aluno.IrParaEscola();
             professor.Explicar("POO");

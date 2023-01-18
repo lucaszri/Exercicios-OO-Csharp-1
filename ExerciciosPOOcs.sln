@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-Classe-Abstrata",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-Interfaces", "Exercicio-Interfaces\Exercicio-Interfaces.csproj", "{00B2AD9C-513F-4DDB-B89D-F58FEDF0E813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-Reflection", "Exercicio-Reflection\Exercicio-Reflection.csproj", "{0CF65A4C-CA6C-4B54-8C15-0362C13A3CAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{00B2AD9C-513F-4DDB-B89D-F58FEDF0E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00B2AD9C-513F-4DDB-B89D-F58FEDF0E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00B2AD9C-513F-4DDB-B89D-F58FEDF0E813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF65A4C-CA6C-4B54-8C15-0362C13A3CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF65A4C-CA6C-4B54-8C15-0362C13A3CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF65A4C-CA6C-4B54-8C15-0362C13A3CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF65A4C-CA6C-4B54-8C15-0362C13A3CAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

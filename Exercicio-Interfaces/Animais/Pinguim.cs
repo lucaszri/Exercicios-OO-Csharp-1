@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Interfaces.Animais
 {
-    internal class Pinguim
+    public class Pinguim : Ave 
     {
+        public Pinguim(bool rapina, string corpena, string nome, DateTime datanascimento, char sexo)
+            : base(rapina, corpena, nome, datanascimento, sexo)
+        {
+
+        }
     }
 }

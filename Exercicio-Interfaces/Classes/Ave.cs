@@ -17,7 +17,6 @@ namespace Exercicio_Interfaces
         public double VelocidadeVoo { get; set; }
 
         // interface aquatica 
-
         public bool ViveTerra { get; set; }
         public bool Mergulha { get; set; }
         public bool AguaDoce { get; set; }

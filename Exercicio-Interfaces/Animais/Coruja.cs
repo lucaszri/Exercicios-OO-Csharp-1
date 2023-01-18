@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Interfaces.Animais
 {
-    internal class Coruja
+    public class Coruja : Ave
     {
+        public Coruja(bool rapina, string corpena, string nome, DateTime datanascimento, char sexo)
+            : base(rapina, corpena, nome, datanascimento, sexo)
+        {
+
+        }
     }
 }

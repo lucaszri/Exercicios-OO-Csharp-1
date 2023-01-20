@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\bin\Debug\net6.0\Exercicio-Interfaces.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\bin\Debug\net6.0\Exercicio-Interfaces.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\bin\Debug\net6.0\Exercicio-Interfaces.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\bin\Debug\net6.0\Exercicio-Interfaces.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\bin\Debug\net6.0\Exercicio-Interfaces.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\refint\Exercicio-Interfaces.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\Exercicio-Interfaces.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Interfaces\obj\Debug\net6.0\ref\Exercicio-Interfaces.dll

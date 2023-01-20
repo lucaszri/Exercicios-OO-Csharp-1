@@ -14,5 +14,9 @@ namespace Exercicio_Interfaces.Animais
         {
 
         }
+        public override void Comunicar()
+        {
+            Console.WriteLine($"O {Nome} tuuuuu (bramiu)... ");
+        }
     }
 }

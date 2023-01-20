@@ -23,11 +23,11 @@ namespace Exercicio_Interfaces
         }
 
        
-        public int Idade(int anos)
+        public void Idade()
             {
             TimeSpan diferenca = DateTime.Now - DataNascimento;
-            anos = (int)diferenca.TotalDays / 365;
-            return anos;
+            int anos = (int)diferenca.TotalDays / 365;
+            Console.WriteLine($"{Nome} tem {anos} anos");
         }
             
             public virtual void Movimentar()

@@ -7,21 +7,13 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Interfaces.Classes
 {
-    public class Mamifero : Animal, IOviparo, IVoar, IAquatico
+    public class Mamifero : Animal
     {
         public int QuantidadeMamas { get; set; }
         public bool Pelos { get; set; }
         public string CorPelo { get; set; }
 
-        // interface voar
-        public int AltitudeMaximaEmMetros { get; set; }
-        public double VelocidadeVoo { get; set; }
-
-        // interface aquatica 
-
-        public bool ViveTerra { get; set; }
-        public bool Mergulha { get; set; }
-        public bool AguaDoce { get; set; }
+       
 
         public Mamifero(int quantidademamas, bool pelos, string corpelo, string nome, DateTime datanascimento, char sexo) : base(nome, datanascimento, sexo)
         {
@@ -32,7 +24,13 @@ namespace Exercicio_Interfaces.Classes
 
         public void Amamentar()
         {
-            Console.WriteLine($"O {Nome} alimentou... ");
+            if (QuantidadeMamas > 0) {
+                Console.WriteLine($"{Nome} amamentou... ");
+            } else
+            {
+                Console.WriteLine($"Os {Nome}s não amamentam");
+            }
+           
         }
     }
 }

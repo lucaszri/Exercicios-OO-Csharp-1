@@ -6,7 +6,7 @@ Este projeto é uma aplicação de console que permite o usuário adicionar term
 - Procurar termos específicos no dicionário
 - Ver todos os termos e definições no dicionário
 
-### Objetivos
+### Enunciado
 ```
 Você foi contratado pela escola de idiomas “Let’s Speak” para a construção de uma aplicação de dicionário para os alunos.
 A aplicação deve ser construída conforme os requisitos a seguir.

@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\bin\Debug\net6.0\Exercicio-Generics.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\bin\Debug\net6.0\Exercicio-Generics.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\bin\Debug\net6.0\Exercicio-Generics.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\bin\Debug\net6.0\Exercicio-Generics.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\bin\Debug\net6.0\Exercicio-Generics.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\refint\Exercicio-Generics.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\ref\Exercicio-Generics.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Exercicio-Generics\obj\Debug\net6.0\Exercicio-Generics.csproj.CopyComplete

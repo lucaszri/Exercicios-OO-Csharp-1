@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\bin\Debug\net6.0\Sorteios.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\bin\Debug\net6.0\Sorteios.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\bin\Debug\net6.0\Sorteios.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\bin\Debug\net6.0\Sorteios.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\bin\Debug\net6.0\Sorteios.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\refint\Sorteios.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\Sorteios.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Sorteios\obj\Debug\net6.0\ref\Sorteios.dll

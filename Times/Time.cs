@@ -41,7 +41,6 @@ namespace Times
                 default: 
                     Console.WriteLine("Opção inválida!");
                     break;
-
             }
         }
     }

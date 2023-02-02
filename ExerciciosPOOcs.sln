@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carros", "Carros\Carros.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Times", "Times\Times.csproj", "{D19B3C45-D536-47F1-97B2-68EBD5EF3304}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorteios", "Sorteios\Sorteios.csproj", "{90309246-AF0F-4064-9160-FAE76591DCBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{D19B3C45-D536-47F1-97B2-68EBD5EF3304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D19B3C45-D536-47F1-97B2-68EBD5EF3304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D19B3C45-D536-47F1-97B2-68EBD5EF3304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90309246-AF0F-4064-9160-FAE76591DCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90309246-AF0F-4064-9160-FAE76591DCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90309246-AF0F-4064-9160-FAE76591DCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90309246-AF0F-4064-9160-FAE76591DCBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

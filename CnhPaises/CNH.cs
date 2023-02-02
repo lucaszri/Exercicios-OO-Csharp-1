@@ -8,15 +8,16 @@ namespace CnhPaises
 {
     public class CNH
     {
-        public string Pais;
         public int Idade;
+        public Pais Pais1;
 
-        public CNH(string pais, int idade)
+        
+        public CNH(Pais pais, int idade)
         {
-            Pais = pais;
+            Pais1 = pais;
             Idade = idade;
             if(idade < 18) { 
-                if(pais == "US" || pais == "CA")
+                if(pais.Sigla == "US" || pais.Sigla == "CA")
                 {
                     if(idade < 16)
                     {
@@ -28,7 +29,7 @@ namespace CnhPaises
                         Idade = idade;   
                     }
                 }    
-                if(pais == "CH" || pais == "RU")
+                if(pais.Sigla == "CH" || pais.Sigla == "RU")
                 {
                     if(idade < 21)
                     {

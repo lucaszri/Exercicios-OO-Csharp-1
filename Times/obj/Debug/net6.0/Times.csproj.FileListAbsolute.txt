@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\bin\Debug\net6.0\Times.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\bin\Debug\net6.0\Times.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\bin\Debug\net6.0\Times.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\bin\Debug\net6.0\Times.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\bin\Debug\net6.0\Times.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\refint\Times.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\Times.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Times\obj\Debug\net6.0\ref\Times.dll

@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\bin\Debug\net6.0\Carros.exe
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\bin\Debug\net6.0\Carros.deps.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\bin\Debug\net6.0\Carros.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\bin\Debug\net6.0\Carros.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\bin\Debug\net6.0\Carros.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\refint\Carros.dll
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.pdb
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\Carros.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerciciosPOOcs\Carros\obj\Debug\net6.0\ref\Carros.dll
